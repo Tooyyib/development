@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/development/static/css/main.f855e6bc.css",
-    "main.js": "/development/static/js/main.c687a4a8.js",
+    "main.css": "/development/static/css/main.4c4d0bf1.css",
+    "main.js": "/development/static/js/main.17d0bdb0.js",
     "static/js/592.bfdfc7eb.chunk.js": "/development/static/js/592.bfdfc7eb.chunk.js",
-    "static/media/logo.svg": "/development/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/feed.jpg": "/development/static/media/feed.ef6d5bd07abab9bdae4b.jpg",
+    "static/media/speech1.jpg": "/development/static/media/speech1.2e4d495ffca7a822a7df.jpg",
+    "static/media/speech2.jpg": "/development/static/media/speech2.9d39b300a8d9b67fb1cd.jpg",
+    "static/media/quote1.jpg": "/development/static/media/quote1.fa144d292aa5d9cbe278.jpg",
+    "static/media/zully.jpeg": "/development/static/media/zully.89a53fa33225ad4bc64b.jpeg",
+    "static/media/gmail.png": "/development/static/media/gmail.8fc21969c09d93565c9e.png",
+    "static/media/instagram.svg": "/development/static/media/instagram.66d50fb660dc3f07ebd953e48ae3e53a.svg",
+    "static/media/twitter.svg": "/development/static/media/twitter.eb2e5b68ac0ba416be365fbd3333d694.svg",
     "index.html": "/development/index.html",
-    "main.f855e6bc.css.map": "/development/static/css/main.f855e6bc.css.map",
-    "main.c687a4a8.js.map": "/development/static/js/main.c687a4a8.js.map",
+    "static/media/facebook.svg": "/development/static/media/facebook.ddf328b70ef14d3a79d809fb3a81a007.svg",
+    "main.4c4d0bf1.css.map": "/development/static/css/main.4c4d0bf1.css.map",
+    "main.17d0bdb0.js.map": "/development/static/js/main.17d0bdb0.js.map",
     "592.bfdfc7eb.chunk.js.map": "/development/static/js/592.bfdfc7eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.c687a4a8.js"
+    "static/css/main.4c4d0bf1.css",
+    "static/js/main.17d0bdb0.js"
   ]
 }
