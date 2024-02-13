@@ -207,6 +207,7 @@ function Home() {
               <img
                 src={speech1}
                 className="absolute block w-full translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 "
+                alt="speech1"
               />
             </div>
 
@@ -215,6 +216,7 @@ function Home() {
               <img
                 src={speech2}
                 className="absolute block w-full translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+                alt="speech2"
               />
             </div>
 
@@ -223,6 +225,7 @@ function Home() {
               <img
                 src={quote1}
                 className="absolute block w-full translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+                alt="quote1"
               />
             </div>
 
@@ -231,6 +234,7 @@ function Home() {
               <img
                 src={feed}
                 className="absolute block w-full translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+                alt="feed"
               />
             </div>
           </div>
@@ -289,7 +293,7 @@ function Home() {
 
       {/*marquee-Element..... class activities  at 255 - 276 */}
       
-        <marquee>
+        {/* <marquee>
           <div className="flex gap-5 text-[#ffff]">
             
             <div className="bg-[#f2878c] w-[20rem] rounded text-center p-2 font-semibold">
@@ -307,7 +311,7 @@ function Home() {
               </a>
             </div>
           </div>
-        </marquee>
+        </marquee> */}
     </Container>
   );
 }
